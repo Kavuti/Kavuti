@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Web Developer
 - 🌱 I’m currently studying Machine Learning and Deep Learning
 - ⚡ In my spare time i develop open source projects
+- 🎹 I play the piano
