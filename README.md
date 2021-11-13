@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm currently working as Web Developer
-- 🌱 I'm passionate about DevOps practices and Machine Learning
+- 🌱 I'm passionate about Cloud Engineering
 - ⚡ In my spare time I dedicate my time to study new technologies and apply them into small projects
 - 🎹 I play the piano and the ukulele
