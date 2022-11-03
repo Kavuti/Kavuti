@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working as Software & DevOps Engineer
+- 🔭 I'm currently working as DevOps Engineer
 - ⚡ In my spare time I dedicate my time to study new technologies and apply them into small projects
 - 🎹 I play the piano and the ukulele
