@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working as DevOps Engineer
 - ⚡ In my spare time I dedicate my time to study new technologies and apply them into small projects
 - 🎹 I play the piano and the ukulele
-
-[![Christian Cavuti's github stats](https://github-readme-stats.vercel.app/api?username=Kavuti&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
